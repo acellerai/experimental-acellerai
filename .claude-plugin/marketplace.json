@@ -1,0 +1,17 @@
+{
+  "name": "acellerai-capacitacao",
+  "owner": {
+    "name": "AcellerAI"
+  },
+  "metadata": {
+    "description": "Plugins usados nas atividades práticas da capacitação em IA da AcellerAI."
+  },
+  "plugins": [
+    {
+      "name": "experimental-acellerai",
+      "source": "./",
+      "description": "Relatório de fechamento anual da GMI com Google Drive e Gmail, comandos e agents de gráfico e de detecção de prompt injection.",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "experimental-acellerai",
+  "version": "1.0.0",
+  "description": "Plugin experimental da capacitação em IA (AcellerAI): gera o relatório de fechamento anual da GMI com comparativo entre anos, prepara a planilha e o e-mail para o time comercial e, depois da aprovação, salva no Google Drive comercial e envia pelo Gmail. Traz comandos de resumo executivo, comparação de anos e envio, e os agents de gráfico visual e de detecção de prompt injection.",
+  "author": {
+    "name": "AcellerAI"
+  },
+  "keywords": [
+    "gmi",
+    "fechamento-anual",
+    "relatorio",
+    "google-drive",
+    "gmail",
+    "prompt-injection",
+    "capacitacao"
+  ]
+}
