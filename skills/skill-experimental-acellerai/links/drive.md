@@ -6,5 +6,4 @@ Pasta do Google Drive onde a planilha do fechamento anual deve ser adicionada.
 |---|---|---|
 | Drive comercial | drive para adicionar o Sheets | [LINK_DRIVE_COMERCIAL] |
 
-Como preencher: troque `[LINK_DRIVE_COMERCIAL]` pelo link da pasta (por exemplo,
-`https://drive.google.com/drive/folders/...`). Não mude o restante do arquivo.
+[LINK_DRIVE_COMERCIAL] (https://drive.google.com/drive/folders/1q7KHg2qnzoYa7T_iKH_jK2IOWeTQF46c?usp=drive_link)
